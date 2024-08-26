@@ -9,3 +9,4 @@
   - Home-info section with a brief history of our hotel
   - Features section highlighting our hotel's amenities, including Great Location, Free Meals, and Fitness Room
   - Footer with copyright information
+## Demo - [link](https://muthuraj107.github.io/Hotel/)
